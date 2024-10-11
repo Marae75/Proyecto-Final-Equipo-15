@@ -13,6 +13,6 @@ Saul Torres, Felipe Garza, Sergio Méndez, Lenny Cardenas y Mara Cisneros.
 labores diarias.
   La base de datos contiene datos de texto y numéricos, consta de dos instancias que se combinarán para realizar análisis más detallados.
 
-2. La Preparación, Limpieza de los Datos y Análisis Exploratorio de Datos (EDA), fue mediatne el software de Excel
-3. La herramienta empleada para la Visualización de Datos, es Tableau
+2. La Preparación, Limpieza de los Datos y Análisis Exploratorio de Datos (EDA), fue mediatne el software de Excel.
+3. La herramienta empleada para la Visualización de Datos, es Tableau.
  
