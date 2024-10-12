@@ -119,5 +119,5 @@ Ventas totales por sucursal
 
 ## LINK
 
-[Vizualizacion en Tableau](https://public.tableau.com/app/profile/lenny.alexander.cardenas.quiroz/viz/AnalisisdeTD2024/TD4_2)
+[Vizualización en Tableau](https://public.tableau.com/app/profile/lenny.alexander.cardenas.quiroz/viz/AnalisisdeTD2024/TD4_2)
 
