@@ -34,7 +34,9 @@ Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de Méxi
 ### Análisis de Ventas
 
 
-![Captura de pantalla 2024-10-11 211513](https://github.com/user-attachments/assets/609be0b9-24e0-48b5-88f5-a2ae8bbd2559)
+
+![Captura de pantalla 2024-10-11 211721](https://github.com/user-attachments/assets/2e7beb86-dfb8-4910-8f96-e067db8e8f92)
+
 1. Se identifica estacionalidad de ventas, meses de Junio, Noviembre y Diciembre superan el millón. Diciembre es el mes más fuerte del año. Se tuvo una caída en las ventas del año 2023 en comparación con 2022 tanto en monto como en unidades.
 
 
