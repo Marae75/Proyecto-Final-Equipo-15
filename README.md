@@ -30,11 +30,10 @@ La empresa cuenta con 3 Sucursales, por lo que se podrá identificar cual es la 
 Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de México con sus distintas categorías de productos y marcas.
 
 ## Resultados
-==»==
+
 -- 
 ### Análisis de Ventas
-==»==
--
+
 -
 ![Captura de pantalla 2024-10-11 211721](https://github.com/user-attachments/assets/758d3993-8298-43a4-a5c9-23cedc52e610)
 > Se identifica estacionalidad de ventas, meses de Junio, Noviembre y Diciembre superan el millón. Diciembre es el mes más fuerte del año. Se tuvo una caída en las ventas del año 2023 en comparación con 2022 tanto en monto como en unidades.
