@@ -8,11 +8,12 @@ Saul Torres, Felipe Garza, Sergio Méndez, Lenny Cardenas y Mara Cisneros.
               
 1. Selección y Justificación de la Base de Datos
 
-  Se extrajo una base de datos de una Boutique de Regalos para caballeros, en sus diferentes sucursales en la Ciudad de México con sus distintas categorías de productos y marcas.
+   Se extrajo una base de datos de una Boutique de Regalos para caballeros, en sus diferentes sucursales en la Ciudad de México con sus distintas categorías de productos y marcas.
 
-  Se decidió por esa base de datos porque los miembros del equipo estábamos interesados en analizar comportamientos de ventas, ya que la mayoría tenemos relación con ese campo en nuestras labores diarias.
+   Se decidió por esa base de datos porque los miembros del equipo estábamos interesados en analizar comportamientos de ventas, ya que la mayoría tenemos relación con ese campo en 
+   nuestras labores diarias.
 
-  La base de datos contiene datos de texto y numéricos, consta de dos instancias que se combinarán para realizar análisis más detallados.
+   La base de datos contiene datos de texto y numéricos, consta de dos instancias que se combinarán para realizar análisis más detallados.
 
 2. La Preparación, Limpieza de los Datos y Análisis Exploratorio de Datos (EDA), fue mediatne el software de Excel.
 3. La herramienta empleada para la Visualización de Datos, es Tableau.
@@ -31,10 +32,11 @@ Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de Méxi
 
 ## Resultados
 
--- 
+   
 ### Análisis de Ventas
-
 -
+-
+-    
 ![Captura de pantalla 2024-10-11 211721](https://github.com/user-attachments/assets/758d3993-8298-43a4-a5c9-23cedc52e610)
 > Se identifica estacionalidad de ventas, meses de Junio, Noviembre y Diciembre superan el millón. Diciembre es el mes más fuerte del año. Se tuvo una caída en las ventas del año 2023 en comparación con 2022 tanto en monto como en unidades.
 
