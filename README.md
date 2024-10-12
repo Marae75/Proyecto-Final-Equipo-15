@@ -69,12 +69,12 @@ Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de S
 
 
    
-> Ventas anuales divididas en meses
+Ventas anuales divididas en meses
 
 ![image](https://github.com/user-attachments/assets/3cbe719e-3a86-48cc-96e8-21fcbf7dd30b)
 
    
-> Ventas anuales por producto
+Ventas anuales por producto
 
 ![image](https://github.com/user-attachments/assets/2ef5e2e5-f9be-40b0-9cab-a26b06692705)
 
@@ -83,8 +83,16 @@ Numero de ventas en unidades anuales por sucursal
 ![image](https://github.com/user-attachments/assets/5d4f4504-e06d-43c2-a5f0-61f85c483c6d)
 
 
+Ventas totales por sucursal
+
+![image](https://github.com/user-attachments/assets/63b0c4b3-d3a5-4aa5-b67a-e19d1776772d)
 
 
+## CONCLUSIONES
+
+-
+-
+-
 
 
 
