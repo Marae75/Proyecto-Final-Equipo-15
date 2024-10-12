@@ -30,18 +30,16 @@ La empresa cuenta con 3 Sucursales, por lo que se podrá identificar cual es la 
 Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de México con sus distintas categorías de productos y marcas.
 
 ## Resultados
-
- 
+==»==
+-- 
 ### Análisis de Ventas
-
-
+==»==
+-
+-
 ![Captura de pantalla 2024-10-11 211721](https://github.com/user-attachments/assets/758d3993-8298-43a4-a5c9-23cedc52e610)
 > Se identifica estacionalidad de ventas, meses de Junio, Noviembre y Diciembre superan el millón. Diciembre es el mes más fuerte del año. Se tuvo una caída en las ventas del año 2023 en comparación con 2022 tanto en monto como en unidades.
 
-<p align="center" width="100%">
-    <img width="33%" ![Captura de pantalla 2024-10-11 212015](https://github.com/user-attachments/assets/17e0c3ea-9357-42e0-a5f5-dfcf7223e75c)>
-</p>
-     
+    
 ![Captura de pantalla 2024-10-11 212015](https://github.com/user-attachments/assets/0e977205-9627-47b8-97e6-77e951ef5b72)
 > Las categorías parecen tener un comportamiento similar en todas las sucursales.
 Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de Santa Úrsula que para el resto.
