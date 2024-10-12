@@ -52,7 +52,7 @@ Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de S
     
 
 <p align="center">
-  <img width="460" height="300" src="![Captura de pantalla 2024-10-11 212859](https://github.com/user-attachments/assets/813a6080-4e2f-4462-bb1c-8aea1486f1d0)">
+  <img width="460" height="300" src=![Captura de pantalla 2024-10-11 212859](https://github.com/user-attachments/assets/813a6080-4e2f-4462-bb1c-8aea1486f1d0)>
 </p>
 > La tienda más fuerte es la ubicada en centro, reforma, vende más del doble que la siguiente sucursal Santa Úrsula.
 
