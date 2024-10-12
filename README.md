@@ -31,20 +31,20 @@ Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de Méxi
 
 ## Resultados
 
+ 
 ### Análisis de Ventas
 
-
-
+  
 ![Captura de pantalla 2024-10-11 211721](https://github.com/user-attachments/assets/2e7beb86-dfb8-4910-8f96-e067db8e8f92)
-
 1. Se identifica estacionalidad de ventas, meses de Junio, Noviembre y Diciembre superan el millón. Diciembre es el mes más fuerte del año. Se tuvo una caída en las ventas del año 2023 en comparación con 2022 tanto en monto como en unidades.
-
-
+ 
+ 
+![Captura de pantalla 2024-10-11 212015](https://github.com/user-attachments/assets/0e977205-9627-47b8-97e6-77e951ef5b72)
 2. Las categorías parecen tener un comportamiento similar en todas las sucursales.
 Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de Santa Úrsula que para el resto.
 
 
-
+   
 ### Tendencia de Categoría
 
 1. La categoría con mayores ventas son las gorras, seguido de la cartera simple y los cinturones de una vista y reversibles, neceser y mariconera también son categorías fuertes
