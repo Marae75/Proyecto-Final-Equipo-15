@@ -46,7 +46,7 @@ Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de Méxi
     
 ![Captura de pantalla 2024-10-11 212015](https://github.com/user-attachments/assets/0e977205-9627-47b8-97e6-77e951ef5b72)
   
-> Las categorías parecen tener un comportamiento similar en todas las sucursales.
+> Las categorías parecen tener un comportamiento similar en todas las sucursales.                              
 > Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de Santa Úrsula que para el resto.
      
     
