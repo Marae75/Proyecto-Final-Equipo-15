@@ -117,7 +117,9 @@ Ventas totales por sucursal
   mercado que podrían haber influido en la caída de ventas.
 - No se investigaron aspectos como la experiencia del cliente o la calidad del servicio en cada sucursal, factores que podrían influir en el comportamiento de las ventas.
 
+## LINK
 
+[Links](https://public.tableau.com/app/profile/lenny.alexander.cardenas.quiroz/viz/AnalisisdeTD2024/TD4_2)
 
 
 
