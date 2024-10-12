@@ -51,9 +51,7 @@ Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de S
 > La categoría con mayores ventas son las gorras, seguido de la cartera simple y los cinturones de una vista y reversibles, neceser y mariconera también son categorías fuertes
     
 
-<p align="center">
-  <img width="460" height="300" src=![Captura de pantalla 2024-10-11 212859](https://github.com/user-attachments/assets/ffce63f1-3b8e-49b0-bdce-27137f89a093)
-</p>
+![Captura de pantalla 2024-10-11 212859](https://github.com/user-attachments/assets/e6a4e191-c3b6-4fbd-b85d-a40873f51e45)
 > La tienda más fuerte es la ubicada en centro, reforma, vende más del doble que la siguiente sucursal Santa Úrsula.
 
 
