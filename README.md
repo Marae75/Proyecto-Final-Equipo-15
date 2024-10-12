@@ -40,14 +40,14 @@ Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de Méxi
      
 ![Captura de pantalla 2024-10-11 211721](https://github.com/user-attachments/assets/758d3993-8298-43a4-a5c9-23cedc52e610)
  
->Se identifica estacionalidad de ventas, meses de Junio, Noviembre y Diciembre superan el millón. Diciembre es el mes más fuerte del año.
->Se tuvo una caída en las ventas del año 2023 en comparación con 2022 tanto en monto como en unidades.
+> Se identifica estacionalidad de ventas, meses de Junio, Noviembre y Diciembre superan el millón. Diciembre es el mes más fuerte del año.
+> Se tuvo una caída en las ventas del año 2023 en comparación con 2022 tanto en monto como en unidades.
   
     
 ![Captura de pantalla 2024-10-11 212015](https://github.com/user-attachments/assets/0e977205-9627-47b8-97e6-77e951ef5b72)
   
->Las categorías parecen tener un comportamiento similar en todas las sucursales.
->Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de Santa Úrsula que para el resto.
+> Las categorías parecen tener un comportamiento similar en todas las sucursales.
+> Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de Santa Úrsula que para el resto.
      
     
     
@@ -56,12 +56,12 @@ Se extrajo una base de datos, en sus diferentes sucursales en la ciudad de Méxi
     
 ![Captura de pantalla 2024-10-11 212256](https://github.com/user-attachments/assets/d3a5e569-a5f2-4ab0-b6df-800908cab073)
    
->La categoría con mayores ventas son las gorras, seguido de la cartera simple y los cinturones de una vista y reversibles, neceser y mariconera también son categorías fuertes.
+> La categoría con mayores ventas son las gorras, seguido de la cartera simple y los cinturones de una vista y reversibles, neceser y mariconera también son categorías fuertes.
     
 
 ![Captura de pantalla 2024-10-11 212859](https://github.com/user-attachments/assets/e6a4e191-c3b6-4fbd-b85d-a40873f51e45)
  
->La tienda más fuerte es la ubicada en centro, reforma, vende más del doble que la siguiente sucursal Santa Úrsula.
+> La tienda más fuerte es la ubicada en centro, reforma, vende más del doble que la siguiente sucursal Santa Úrsula.
   
    
     
