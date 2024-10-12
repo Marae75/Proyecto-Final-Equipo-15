@@ -60,21 +60,23 @@ Se identifica que la gorra tiene mucho más peso en ventas para la sucursal de S
 
 
 ### Ventas Totales
+    
+    
+![image](https://github.com/user-attachments/assets/2d1080fd-6149-4e28-a05d-fab65a7cf496)
+   
+    
+![image](https://github.com/user-attachments/assets/738e5aa9-8fd3-4be4-90bb-0ce8c5b1a260)
+
 
    
-![image](https://github.com/user-attachments/assets/2d1080fd-6149-4e28-a05d-fab65a7cf496)
->
->
-![image](https://github.com/user-attachments/assets/738e5aa9-8fd3-4be4-90bb-0ce8c5b1a260)
->
->
 > Ventas anuales divididas en meses
 ![image](https://github.com/user-attachments/assets/3cbe719e-3a86-48cc-96e8-21fcbf7dd30b)
-  
+
+   
 > Ventas anuales por producto   
 ![image](https://github.com/user-attachments/assets/2ef5e2e5-f9be-40b0-9cab-a26b06692705)
 
->
+
 
 
 
